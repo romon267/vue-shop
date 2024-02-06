@@ -1,0 +1,9 @@
+.app.light {
+  --bg-color: #f7f7f7; /* Soft light gray background */
+  --primary-color: #333333; /* Dark gray for primary text and elements */
+  --secondary-color: #007BFF; /* Modern blue for secondary elements */
+  --button-color: #007BFF; /* Button color for light theme */
+  --button-hover-color: #0056b3; /* Darker button color for hover in light theme */
+  --button-active-color: #004085; /* Even darker button color for active state in light theme */
+  --navbar-bg-color: linear-gradient(135deg, #eaeaea 0%, #dcdcdc 100%);
+}

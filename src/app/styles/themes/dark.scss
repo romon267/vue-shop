@@ -1,0 +1,9 @@
+.app.dark {
+  --bg-color: #2c2c2c; /* Dark gray background */
+  --primary-color: #eaeaea; /* Light gray for primary text and elements */
+  --secondary-color: #00ff00; /* Bright green for secondary elements */
+  --button-color: #00ff00; /* Button color for dark theme */
+  --button-hover-color: #00cc00; /* Darker button color for hover in dark theme */
+  --button-active-color: #008000; /* Even darker button color for active state in dark theme */
+  --navbar-bg-color: linear-gradient(135deg, #444444 0%, #333333 100%);
+}
